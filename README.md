@@ -6,8 +6,7 @@ Primeiro projeto da Formação Front-end — HTML + CSS | Tributo à banda The O
 
 ## 🌐 Visualizar o projeto
 
-Basta abrir o arquivo `index.html` no seu navegador.  
-(Não há servidor necessário — é um site estático.)
+🔗 [Visualizar o projeto online](https://pagina-de-tributo-the-offspring.vercel.app/)
 
 ---
 
